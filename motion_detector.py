@@ -1,3 +1,6 @@
+# Author: Haiwen Zhang
+# Created at: 2021/12/2
+
 from machine import Pin
 from machine import Timer
 from machine import I2C
